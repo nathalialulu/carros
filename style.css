@@ -36,6 +36,10 @@ a{
     font-family: 'Lexend Deca', sans-serif;
 }
 
+section {
+    padding: 3rem;
+}
+
 .sedans{
     background: var(--orange);
 
